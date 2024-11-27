@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="SupeSign enGage - Access and monitor your dashboard effectively.">
+    <meta name="author" content="Your Name or Company">
+    <title>SupeSign enGage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-top: 20px;
+        }
+        iframe {
+            display: block;
+            margin: 0 auto;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>SupeSign enGage</h1>
+    <!-- Updated iframe with HTTP URL to access main.htm -->
+    <iframe src="file://phsubsdb0002/engage$/Data/Dashboard/output/main.htm" width="100%" height="600px" frameborder="0"></iframe>
+</body>
+</html>
